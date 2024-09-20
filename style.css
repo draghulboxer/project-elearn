@@ -1,0 +1,42 @@
+@media(min-width:200px)and(max-width:1600px)
+{
+
+}
+
+h1 {
+      font-family:calibri;
+      font-style:italic;
+   }
+
+.upbar {
+    background-color:rgb(187, 239, 255);
+    display:flex;
+    gap:10px;
+    flex-shrink:0;
+    flex-basis:100px;
+    flex-wrap:wrap;
+}
+
+.navbar-brand {
+    font-style:italic;
+    color:red;
+    font-weight:10 rem;
+}
+
+
+.motto {
+    color:red;
+}
+
+.object-fit {
+
+    contain: contain;
+   
+    fill: fill;
+    scale: scale-down;
+    
+}
+
+.carousel-inner{
+  box-sizing:border-box;
+}
